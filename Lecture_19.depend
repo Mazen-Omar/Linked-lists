@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1696704433 source:d:\study\courses\embedded_systems\c programming\tests\lecture_19\main.c
+	<stdio.h>
+	<stdlib.h>
+
